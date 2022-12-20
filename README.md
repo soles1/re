@@ -25,3 +25,7 @@ $$ \text{Период свободных колебаний пружинного
 $$ \text{Первая космическая скорость: } V_1к=\sqrt{\frac{GM}{R_0}} $$
 
 
+
+![pamyatka_BCN4KMh](https://user-images.githubusercontent.com/114459427/208585828-48e93aa5-f330-41bb-b7df-6785251cfb22.png)
+
+
