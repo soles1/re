@@ -15,8 +15,6 @@ $$ \text{Энергия магнитного поля катушки с токо
 ![image](https://user-images.githubusercontent.com/114459354/208584337-d1475e95-afae-464a-a472-4190c247bd53.png)
 
 
-![mermaid-diagram-2022-12-20-110838](https://user-images.githubusercontent.com/114459354/208582098-99e9b90e-e859-4acf-a205-162c6371ca6d.png)
-
 
 
 $$ \text{Период свободных колебаний пружинного маятника: } T=2\pi\sqrt{\frac{m}{k}} $$
